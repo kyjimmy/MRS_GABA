@@ -4,7 +4,7 @@
 This project studys the cerebellar GABA+ values of children with neurodevelopmental disorders (NDD), including autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD) and paediatric obsessive compulsive disorder (OCD), and runs in R.
 
 ### Files:
-"**MRS_data.xlsx**" provides the GABA+ data and demographic information. The brain GABA+ levels were obtained through 1H-magnetic resonance spectroscopy (MRS) data acquired with a MEGA-PRESS (Mullins et al.,2014) spectral editing sequence, and processed using the Gannet software (Edden et al., 2014). 
+"**MRS_data.xlsx**" provides the simulated GABA+ data and demographic information. The brain GABA+ levels were obtained through 1H-magnetic resonance spectroscopy (MRS) data acquired with a MEGA-PRESS (Mullins et al.,2014) spectral editing sequence, and processed using the Gannet software (Edden et al., 2014). 
 
 "**run_stats.R**" cleans up the data and runs statistical analyses on edited magnetic resonance spectroscopy (MRS) data. 
 
